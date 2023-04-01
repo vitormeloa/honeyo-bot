@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "snowden-bot",
+  "version": "1.0.0",
+  "description": "bot para discord",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "snowden-bot"
+  },
+  "keywords": [
+    "bot-discord",
+    "discord",
+    "bot"
+  ],
+  "author": "Vitor Melo",
+  "license": "ISC"
+}
